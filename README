@@ -1,0 +1,9 @@
+These are SWIX files for use in Arista EOS. In a nutshell, I've collected
+all of the dependency RPMs and put them together into a single installable
+extension. 
+
+To learn how to do this yourself, check out this excellent EOS Central 
+article: https://eos.arista.com/package-rpms-into-an-arista-swix-extension/
+
+This was done primarily for use with CPU-Hist, though other tools may be 
+forthcoming. I code when I can't sleep. :)
